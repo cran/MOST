@@ -4,9 +4,13 @@
 \alias{RelativeCosts1}
 \title{The relative cost of reduced factorial designs}
 \usage{
-RelativeCosts1(number_of_factors, desired_fract_resolution = 4,
-  min_target_d_per_factor = 0.2, condition_costlier_than_subject = 1,
-  max_graph_ratio = 5)
+RelativeCosts1(
+  number_of_factors,
+  desired_fract_resolution = 4,
+  min_target_d_per_factor = 0.2,
+  condition_costlier_than_subject = 1,
+  max_graph_ratio = 5
+)
 }
 \arguments{
 \item{number_of_factors}{The number of factors to be tested.}
@@ -38,4 +42,3 @@ RelativeCosts1(number_of_factors = 9,
               condition_costlier_than_subject=1,
               max_graph_ratio = 4)
 }
-

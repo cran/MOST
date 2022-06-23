@@ -30,4 +30,3 @@ balanced; otherwise, they will be as near balanced as possible.
 result <- RandomAssignmentGenerator(35,17)
 print(result)
 }
-

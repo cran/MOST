@@ -5,12 +5,27 @@
 \title{sample size, power and effect size calculations for a factorial or fractional
 factorial experiment}
 \usage{
-FactorialPowerPlan(alpha = 0.05, assignment = "unclustered",
-  change_score_icc = NULL, cluster_size = NULL, cluster_size_sd = NULL,
-  d_main = NULL, effect_size_ratio = NULL, icc = NULL, model_order = 1,
-  nclusters = NULL, nfactors = 1, ntotal = NULL, power = NULL,
-  pre_post_corr = NULL, pretest = "none", raw_coef = NULL,
-  raw_main = NULL, sigma_y = NULL, std_coef = NULL)
+FactorialPowerPlan(
+  alpha = 0.05,
+  assignment = "unclustered",
+  change_score_icc = NULL,
+  cluster_size = NULL,
+  cluster_size_sd = NULL,
+  d_main = NULL,
+  effect_size_ratio = NULL,
+  icc = NULL,
+  model_order = 1,
+  nclusters = NULL,
+  nfactors = 1,
+  ntotal = NULL,
+  power = NULL,
+  pre_post_corr = NULL,
+  pretest = "none",
+  raw_coef = NULL,
+  raw_main = NULL,
+  sigma_y = NULL,
+  std_coef = NULL
+)
 }
 \arguments{
 \item{alpha}{Two sided Type I error level for the test to be performed(default=0.05).}
@@ -116,4 +131,3 @@ FactorialPowerPlan(assignment="independent",
                    sigma_y=10)
 
 }
-

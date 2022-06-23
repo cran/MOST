@@ -1,8 +1,8 @@
-d0aa5e25fe16dc304774d3596cf8ac35 *DESCRIPTION
+1959f43f8931fe4d2cd3f043cec62255 *DESCRIPTION
 5cb4163761147186ad4e1f4ee6b2267b *NAMESPACE
 81969cf43ab52c57c45e33920542f3f1 *R/RelativeCosts1.R
 4f3162da0cc37f37d4c9490d9c8fc37c *R/factorial_power_plan.R
 a7f2f8841037224456e17c1b9f5300df *R/random_assignment_generator.R
-e3111ea530cd0a99269943ca1da98f34 *man/FactorialPowerPlan.Rd
-512fab4ae086b45d6d7c2dd03c4f9657 *man/RandomAssignmentGenerator.Rd
-7b3033ee8bcdf258f37314267c94b6df *man/RelativeCosts1.Rd
+7e298fffef2122b046dbeac3a238ff06 *man/FactorialPowerPlan.Rd
+ea6ad0a6f2c4d342815f9e98f1445fb1 *man/RandomAssignmentGenerator.Rd
+6d77ca0ef48dded7b0904a08c0527485 *man/RelativeCosts1.Rd
